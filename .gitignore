@@ -1,0 +1,17 @@
+*jpg
+*array
+composer*
+*txt*
+vendor
+*.php.*
+!test_images/*jpg
+# swap
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+# session
+Session.vim
+# temporary
+.netrwhist
+*~
+# auto-generated tag files
+tags
